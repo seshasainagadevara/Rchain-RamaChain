@@ -1,2 +1,4 @@
-# Rchain-RamaChain
-Developing blockchain with PoW consensus using dart lang
+Rchain - Rama Chain
+
+Making a blockchain using proof of work consensus protocol
+using dart lang.
